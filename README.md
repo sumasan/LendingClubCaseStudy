@@ -18,14 +18,11 @@ Flow of code is in the order of
  
 ## General Information
 
-- What is the background of your project?
-  This Upgrad study project, to apply EDA concept learnt.This case study is done 
+- This is Upgrad study project, to apply EDA concept learnt in the course
 
-- What is the business problem that your project is trying to solve?
-  The aim is to identify patterns which indicate if a person is likely to default 
+- The aim is to identify patterns which indicate a risky loan applicant 
 
-- What is the dataset that is being used?
-  Loan-applicants complete data for all loans issued through the time period 2007 t0 2011. [ not including rejected applicant]
+- Loan-applicants complete data for all loans issued through the time period 2007 t0 2011. [ not including rejected applicant]
 
 
  
