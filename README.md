@@ -1,5 +1,4 @@
-# Project Name
-> Lending Club Case Study
+# Lending Club Case Study
  
 Aim:
 Using EDA to understand how consumer attributes and loan attributes influence the tendency of default on loans.
